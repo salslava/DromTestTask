@@ -1,1 +1,0 @@
-{"uuid":"f15c7261-dc7b-4488-b63c-2c000ac3190e","name":"D:\\QA\\Java\\MarshallDemo","start":1669518129687,"stop":1669518140566,"children":["41c8ba40-7456-4fb3-9c1d-c33cc654c53a"],"afters":[{"name":"cleanCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","start":1669518140404,"stop":1669518140563}]}

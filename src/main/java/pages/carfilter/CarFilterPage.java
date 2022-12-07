@@ -35,7 +35,8 @@ public class CarFilterPage extends BasePage {
         driver.findElement(model).sendKeys("harr");
         //wait 3
         WebElement findHarr = driver.findElement(harrier);
-        waitVisibilityOfElement(findHarr).click();
+        waitVisibilityOfElement(findHarr);
+        driver.findElement(harrier).click();
 
         driver.findElement(fuel).click();
         driver.findElement(hybrid).click();

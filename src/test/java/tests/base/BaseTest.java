@@ -7,6 +7,8 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 import pages.base.BasePage;
 import pages.carfilter.CarFilterPage;
+import pages.listing.CarListingPage;
+import pages.listing.NextPage;
 
 import static common.Config.CLEAR_COOKIES_AND_STORAGE;
 import static common.Config.HOLD_BROWSER_OPEN;
@@ -15,6 +17,8 @@ public class BaseTest {
     protected WebDriver driver = CommonActions.createDriver();
     protected BasePage basePage = new BasePage(driver);
     protected CarFilterPage carFilterPage = new CarFilterPage(driver);
+    protected CarListingPage carListingPage = new CarListingPage(driver);
+    protected NextPage nextPage = new NextPage(driver);
 
     @AfterTest
     public void cleanCookiesAndLocalStorage (){
