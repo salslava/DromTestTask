@@ -10,8 +10,11 @@ public class CarSearchTest extends BaseTest {
     @Test
     public void FindHarrier (){
         basePage.open(DROM_HOME_PAGE);
-        carFilterPage
-                .chooseCarFilters();
+        carFilterPage.chooseCarFilters();
+
+        carListingPage.checkSoldOut();
+        nextPage.nextPage();
+        carListingPage.checkSoldOut();
     }
 
 }
