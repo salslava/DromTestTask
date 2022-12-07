@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b268a49-21a5-4bac-8fcc-1f041454662c" name="Changes" comment="Add car filters to search">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/listing/CarListingPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/listing/NextPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/00c49396-42e0-4876-beb2-19c824e8d847-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/16495e9e-561e-4579-8484-f039b73ae984-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/1bcc1500-b99d-4c2a-ab83-c7ec0f010521-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2191aeb9-2e46-499f-b8f7-14169a9bbaf1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/239ec0cf-d74f-46a4-9eef-f6dec59b0da7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/299ebe63-b024-4731-addc-b5744bc5726e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2cdfb8b8-4e09-4aab-9f55-a1d8e8745196-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/2d1fc262-aad0-48f2-b7ea-ce1bb41a36b1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/41c8ba40-7456-4fb3-9c1d-c33cc654c53a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/48ab3743-8f71-45ee-8e12-26ecf1062988-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5869c857-b0b5-4da1-9cae-2691a050c6d9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/59fbbabc-6b4b-4c5a-b9e0-71cca3e387c8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/63a626c3-9a29-4144-b033-c9c4ca5d643a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6d124a6c-5a92-4330-a9f3-fee49c14235a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6fcf571b-94d8-41e3-920f-37c62844808c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7ab6ae08-60c2-4ac5-be61-191d864f397a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8b8b4cf3-d87d-4d35-8940-0638f27cb050-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/98969cb2-e8b0-4a47-9f4c-451a5b5b5b34-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9e31e0d8-2654-4da6-a7ad-f92017a4791d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a19b416f-af7a-4a4e-bc5a-2fcee581f15c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a8eaa230-dca6-4eb4-ae75-cdc4fd15bf23-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ad7ea172-9ff8-47f2-a660-1d8a108e28e9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b475b410-a8a9-4441-aaf3-a3758997439c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b6ff6b8d-e129-4aa7-a331-54e3e160f304-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b74acf7a-2bb5-4d55-a528-bdc9e5746980-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bce3e8a8-09e2-4b17-9471-2ce70acb29c9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bf30e953-88d0-4190-b2e4-f12f433e2136-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c4edb628-1b07-446b-881b-f31dddf67e12-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c6735513-da8a-4433-951d-95989b1e49c1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cd47451c-5c7f-43e9-8f24-ab58b5b93fc0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d18f2573-1246-4d32-beae-d1e3186fc2e9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d3335c61-cbc6-4a8d-8a46-7a1c192fedc3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d6026de0-d459-4b38-9d82-22dd1d830409-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e33b0d0d-f7ae-4f4a-b70d-9102c558f025-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e6a58d94-a72d-4b34-a62e-314bfdae2425-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e9452bd7-3882-445c-a1fb-90b9168b7c5c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f15c7261-dc7b-4488-b63c-2c000ac3190e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f32b600f-aa8e-47ab-9d95-3edf64292409-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f422a46c-2300-4d7d-97bc-8f100f414a80-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/fce2ae92-815c-4329-a950-e8fed0cfa46d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/common/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constants/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/carfilter/CarFilterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/carfilter/CarFilterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/base/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/carsearch/CarSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/carsearch/CarSearchTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7b268a49-21a5-4bac-8fcc-1f041454662c" name="Changes" comment="Add car filters to search" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,16 +41,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/QA/Java/myProject",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/QA/Java/myProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
